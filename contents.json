@@ -5000,6 +5000,13 @@
       "description": "List of the questions that helps you to prepare for the interview",
       "homepage": "https://github.com/dashvlas/awesome-ios-interview", 
       "tags": ["interview", "ios-developer", "question list"]
+    },
+    {
+      "title": "SBSpeechRecognizer",
+      "category": "audio",
+      "description": "A wrapper class for SFSpeechRecognizer that makes it much easier to interact with speech recognition in iOS.",
+      "homepage": "https://github.com/simonbromberg/SBSpeechRecognizer", 
+      "tags": ["audio", "speech", "voice", "speech-recognition", "voice-recognition"]
     }   
   ]
 }
